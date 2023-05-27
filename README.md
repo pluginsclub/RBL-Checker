@@ -6,7 +6,6 @@ RBL Checker allows anyone to check if an IP address or domain is listed in RBLs.
 
 * * *
 
-![Screenshot](assets/chrome_3mqnjOxNUs.png.webp)
-![Screenshot](assets/chrome_rM6mExiisX.png.webp)
+![Screenshot](assets/chrome_3mqnjOxNUs.png.webp) ![Screenshot](assets/chrome_rM6mExiisX.png.webp)
 
 RBL Checker is also [available as a cPanel plugin](https://cpanelplugins.com/plugins/rbl-check-cpanel-plugin/).
